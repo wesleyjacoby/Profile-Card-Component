@@ -24,16 +24,14 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshots
 
-Desktop Version:
 ![](./images/profile-card-component-desktop.png)
 
-Mobile Version:
 ![](./images/profile-card-component-mobile.png)
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/wesleyjacoby/Profile-Card-Component)
+- Live Site URL: [GitHub Pages](https://wesleyjacoby.github.io/Profile-Card-Component/)
 
 ## My process
 
